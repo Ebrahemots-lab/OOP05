@@ -29,6 +29,18 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProgramFunction.cs",
@@ -47,24 +59,12 @@
               "Title": "OOP05",
               "DocumentMoniker": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\OOP05.csproj",
               "RelativeDocumentMoniker": "OOP05\\OOP05.csproj",
-              "ToolTip": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\OOP05.csproj*",
-              "RelativeToolTip": "OOP05\\OOP05.csproj*",
+              "ToolTip": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\OOP05.csproj",
+              "RelativeToolTip": "OOP05\\OOP05.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-22T03:39:34.662Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -72,8 +72,8 @@
               "Title": "Animal.cs",
               "DocumentMoniker": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\Sealed\\Animal.cs",
               "RelativeDocumentMoniker": "OOP05\\Sealed\\Animal.cs",
-              "ToolTip": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\Sealed\\Animal.cs*",
-              "RelativeToolTip": "OOP05\\Sealed\\Animal.cs*",
+              "ToolTip": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\Sealed\\Animal.cs",
+              "RelativeToolTip": "OOP05\\Sealed\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T03:33:45.747Z",
@@ -85,9 +85,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\Program.cs",
               "RelativeDocumentMoniker": "OOP05\\Program.cs",
-              "ToolTip": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\Program.cs*",
-              "RelativeToolTip": "OOP05\\Program.cs*",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAGkAAAAUAAAA",
+              "ToolTip": "D:\\Diploma\\C#\\Challeanges\\OOP05\\OOP05\\Program.cs",
+              "RelativeToolTip": "OOP05\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAGgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T03:28:42.32Z",
               "EditorCaption": ""
