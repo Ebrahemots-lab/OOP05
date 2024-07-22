@@ -1,0 +1,14 @@
+D:\Diploma\C#\Challeanges\OOP05\OOP05\bin\Debug\net8.0\OOP05.exe
+D:\Diploma\C#\Challeanges\OOP05\OOP05\bin\Debug\net8.0\OOP05.deps.json
+D:\Diploma\C#\Challeanges\OOP05\OOP05\bin\Debug\net8.0\OOP05.runtimeconfig.json
+D:\Diploma\C#\Challeanges\OOP05\OOP05\bin\Debug\net8.0\OOP05.dll
+D:\Diploma\C#\Challeanges\OOP05\OOP05\bin\Debug\net8.0\OOP05.pdb
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.AssemblyInfoInputs.cache
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.AssemblyInfo.cs
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.dll
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\refint\OOP05.dll
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.pdb
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\OOP05.genruntimeconfig.cache
+D:\Diploma\C#\Challeanges\OOP05\OOP05\obj\Debug\net8.0\ref\OOP05.dll
